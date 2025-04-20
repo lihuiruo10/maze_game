@@ -1,0 +1,22 @@
+현재 미로는 랜덤으로 움직이게 하여 만드는 것이므로
+길이 막히는 오류가 생길 수 있습니다.
+
+오류가 생긴다면 고정 해주시고, 최대한 빨리
+미로게임이 원할하게 작동하도록 실행시키겠습니다.
+
+(실행하는 방법은 다음과 같습니다.)
+
+git clone https://github.com/lihuiruo10/maze_game.git
+
+이 명령어로 깃허브를 클론 시키시고
+
+python maze.py
+
+이 명령어로 미로를 실행합니다.
+[오류가 생기면 새 세션을 열어주세요!]
+
+rm -rf maze_game
+git clone https://github.com/lihuiruo10/maze_game.git
+
+이 명령어는 깃허브를 클론시켰지만 실행이 안될 때
+다시 실행하는 명령어입니다!
